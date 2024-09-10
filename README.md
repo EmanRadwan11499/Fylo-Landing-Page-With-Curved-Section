@@ -11,8 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:  https://github.com/EmanRadwan114/Fylo-Landing-Page-With-Curved-Section.git
-- Live Site URL: https://emanradwan114.github.io/Fylo-Landing-Page-With-Curved-Section/
+- [Live Site URL](https://emanradwan11499.github.io/Fylo-Landing-Page-With-Curved-Section/)
 
 ### Built with
 
